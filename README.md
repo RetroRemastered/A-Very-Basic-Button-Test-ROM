@@ -4,14 +4,7 @@ A tiny Game Boy Advance button-test ROM. It starts with the Retro Remastered spl
 
 ## Download
 
-No build step is required. Use either of these ready-to-play files:
-
-```text
-A Very Basic Button Test ROM.gba
 A Very Basic Button Test ROM.zip
-```
-
-The `.zip` package contains the ROM and a short readme. Load the `.gba` file in a Game Boy Advance emulator, flash cart, or ROM flashing tool.
 
 ## Controls
 
