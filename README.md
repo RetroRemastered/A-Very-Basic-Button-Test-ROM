@@ -2,27 +2,16 @@
 
 A tiny Game Boy Advance button-test ROM. It starts with the Retro Remastered splash screen, then switches to a GBA SP-style button tester when any button is pressed.
 
-The ready-to-use ROM is:
+## Download
+
+No build step is required. Use either of these ready-to-play files:
 
 ```text
 A Very Basic Button Test ROM.gba
+A Very Basic Button Test ROM.zip
 ```
 
-## Build
-
-Install an ARM embedded toolchain that provides `arm-none-eabi-gcc` and `arm-none-eabi-objcopy`, then run:
-
-```sh
-make
-```
-
-The ROM will be written to:
-
-```text
-build/button_test.gba
-```
-
-The build includes `tools/fix-gba-header.js`, so no separate `gbafix` install is required.
+The `.zip` package contains the ROM and a short readme. Load the `.gba` file in a Game Boy Advance emulator, flash cart, or ROM flashing tool.
 
 ## Controls
 
@@ -40,3 +29,19 @@ Press any GBA button. The matching control changes to its pressed artwork while 
 - A: Do
 - L: lowest pitch available from the GBA square-wave channel
 - R: highest pitch available from the GBA square-wave channel
+
+## Build From Source
+
+Install an ARM embedded toolchain that provides `arm-none-eabi-gcc` and `arm-none-eabi-objcopy`, then run:
+
+```sh
+make
+```
+
+The ROM will be written to:
+
+```text
+build/button_test.gba
+```
+
+The build includes `tools/fix-gba-header.js`, so no separate `gbafix` install is required.
