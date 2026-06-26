@@ -18,13 +18,15 @@ You can buy a physical cart of either ROM from me at Retro Remastered
 
 Press any button to test it. The matching on-screen button changes while held, and a tone plays while the button is held.
 
-  Left - Do
-  Down - Re
-  Up - Me
-  Right - Fa
-  Select - So
-  Start - La
-  B - Ti
-  A - Do 
-  L - Lowest tone GBA can handle
-  R - Highest tone GBA can handle
+Button tones:
+
+- Left - Do
+- Down - Re
+- Up - Me
+- Right - Fa
+- Select - So
+- Start - La
+- B - Ti
+- A - Do
+- L - Lowest tone GBA can handle
+- R - Highest tone GBA can handle
