@@ -12,7 +12,7 @@ Load the ROM file in an emulator, flash cart, or ROM flashing tool.
 ## Buy a Physical Cartridge!
 
 You can buy a physical cart of either ROM from me at Retro Remastered
-  https://retroremastered.com/collections/games
+- https://retroremastered.com/collections/games
 
 ## Controls
 
