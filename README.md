@@ -2,10 +2,6 @@
 
 A tiny Game Boy Advance button-test ROM. It starts with the Retro Remastered splash screen, then switches to a GBA SP-style button tester when any button is pressed.
 
-## Download
-
-A Very Basic Button Test ROM.zip
-
 ## Controls
 
 Press any GBA button. The matching control changes to its pressed artwork while held, and a square-wave tone plays while the button is held.
