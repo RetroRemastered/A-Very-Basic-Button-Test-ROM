@@ -12,19 +12,19 @@ Load the ROM file in an emulator, flash cart, or ROM flashing tool.
 ## Buy a Physical Cartridge!
 
 You can buy a physical cart of either ROM from me at Retro Remastered
-https://retroremastered.com/collections/games
+  https://retroremastered.com/collections/games
 
 ## Controls
 
 Press any button to test it. The matching on-screen button changes while held, and a tone plays while the button is held.
 
-Left - Do
-Down - Re
-Up - Me
-Right - Fa
-Select - So
-Start - La
-B - Ti
-A - Do 
-L - Lowest tone GBA can handle
-R - Highest tone GBA can handle
+  Left - Do
+  Down - Re
+  Up - Me
+  Right - Fa
+  Select - So
+  Start - La
+  B - Ti
+  A - Do 
+  L - Lowest tone GBA can handle
+  R - Highest tone GBA can handle
